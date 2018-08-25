@@ -1,4 +1,2 @@
-#User Authentication
-###Lecture: Passport & MongoDB From Joel Miller - Prime Digital Academy
+# User Authentication w/ MongoDB
 
-###http://passportjs.org/
