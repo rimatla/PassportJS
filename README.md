@@ -1,1 +1,1 @@
-# [PassportJS](http://passportjs.org/){:target="_blank"} Sandbox 
+# <a href="http://passportjs.org/" target="_blank">PassportJS</a> Sandbox 
